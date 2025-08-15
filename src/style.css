@@ -1,10 +1,10 @@
 body {
-    background-color: #f9f7fe;
+    background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
     font-family: Arial, Helvetica, sans-serif;
 }
 
 a {
-    color: #6a5acd;
+    color: #49beb7;
 }
 
 .container {
@@ -21,7 +21,7 @@ h1 {
     font-weight: 800;
     font-size: 36px;
     line-height: 1.5;
-    color: #6a5acd;
+    color: #085f63;
 }
 
 
@@ -51,12 +51,12 @@ form {
     font-size: 16px;
     border-radius: 50px;
     line-height: 20px;
-    color: #272044;
+    color: #100e1a;
 }
 
 .submit-button {
     margin-left: 10px;
-    background: #6a5acd;
+    background: #085f63;
     color: white;
     border: none;
     width: 150px;
@@ -71,7 +71,7 @@ form {
     background-color: #fff;
     padding: 20px;
     line-height: 24px;
-    border-left: 3px solid #6a5acd;
+    border-left: 3px solid #f5e1da;
     box-shadow: 0px 20px 60px rgba(65, 50, 100, 0.08);
 
 }
